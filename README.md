@@ -14,9 +14,10 @@ Junior Developer from Costa Rica with experience in web development, Python auto
 - Worked with SQL datasets, automation scripts, and data workflows
 
 ## 📌 Featured Projects
+- [Portfolio Website](https://andresarzz.github.io/portfolio)
 - Task Management Web App (CRUD + SQL)
 - Python Data Automation Scripts
 
 ## 📫 Contact
 - Email: aara28312@gmail.com
-- ¿506 8853-8999
+- Portfolio: https://andresarzz.github.io/portfolio
