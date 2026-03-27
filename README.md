@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Andrés Araya 👋
 
-<!--
-**andresarzz/andresarzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Developer from Costa Rica with experience in web development, Python automation, and SQL data processing.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Python
+- JavaScript
+- SQL
+- HTML / CSS
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- Data & Analytics Intern @ TransUnion
+- Worked with SQL datasets, automation scripts, and data workflows
+
+## 📌 Featured Projects
+- [Portfolio Website](https://andresarzz.github.io/portfolio)
+- Task Management Web App (CRUD + SQL)
+- Python Data Automation Scripts
+
+## 📫 Contact
+- Email: aara28312@gmail.com
+- Portfolio: https://andresarzz.github.io/portfolio
