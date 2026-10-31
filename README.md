@@ -22,8 +22,12 @@ ASP.NET Core MVC, .NET 8, SQL Server. User management, roles, requests and repor
 Next.js / React / TypeScript frontend prototype exploring LESCO-related interactions. AI recognition and metrics are simulated, **not validated translation capabilities**.
 
 ## Experience
-- Data & Analytics Intern, TransUnion
-- Web Development Intern, IT Mountain Consulting
+- Data & Analytics Intern, TransUnion (Oct–Nov 2025)
+- Web Development Intern, Mountain IT Consulting (Sep 2024)
+
+## Education
+- Software Development Engineering, Universidad Fidélitas (Jan 2026–present; expected 2030)
+- Technical Diploma in Web Development, CTP Mercedes Norte (Feb 2023–Dec 2025)
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/andrara/) · [Portfolio](https://andresarzz.github.io/portfolio) · aara28312@gmail.com
